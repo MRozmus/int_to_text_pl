@@ -6,7 +6,7 @@ module Liczby
     SETKI = {1 => "sto", 2 => "dwieście", 3 => "trzysta", 4 => "czterysta", 5 => "pięćset", 6 => "sześćset", 7 => "siedemset", 8 => "osiemset", 9 => "dziewięćset"}
     TYSIACE = {:one => "tysiąc", :few => "tysiące", :many => "tysięcy"}
     MILIONY = {:one => "milion", :few => "miliony", :many => "milionów"}
-    MILIARDY = {:one => "miliard", :few => "miliardy", :many => "miliardow"}
+    MILIARDY = {:one => "miliard", :few => "miliardy", :many => "miliardów"}
  
      def nastki
          if (11..19).include?(self.to_s[-2..-1].to_i) then

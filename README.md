@@ -13,5 +13,5 @@ require 'int_to_text_pl'
 1.to_text_pl #=> "Jeden"
 963.to_text_pl #=> "Dziewięćset sześćdziesiąt trzy"
 8558853.to_text_pl #=> "Osiem milionów pięćset pięćdziesiąt osiem tysięcy osiemset pięćdziesiąt trzy"
-999999999999.to_text_pl #=> "Dziewięćset dziewięćdziesiąt dziewięć miliardow dziewięćset dziewięćdziesiąt dziewięć milionów dziewięćset dziewięćdziesiąt dziewięć tysięcy dziewięćset dziewięćdziesiąt dziewięć"
+999999999999.to_text_pl #=> "Dziewięćset dziewięćdziesiąt dziewięć miliardów dziewięćset dziewięćdziesiąt dziewięć milionów dziewięćset dziewięćdziesiąt dziewięć tysięcy dziewięćset dziewięćdziesiąt dziewięć"
 ```
